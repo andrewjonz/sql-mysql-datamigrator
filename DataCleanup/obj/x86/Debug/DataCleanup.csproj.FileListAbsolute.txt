@@ -1,0 +1,90 @@
+d:\dme351\my documents\visual studio 2010\Projects\DataCleanup\DataCleanup\bin\Debug\DataCleanup.exe
+d:\dme351\my documents\visual studio 2010\Projects\DataCleanup\DataCleanup\bin\Debug\DataCleanup.pdb
+d:\dme351\my documents\visual studio 2010\Projects\DataCleanup\DataCleanup\obj\x86\Debug\ResolveAssemblyReference.cache
+d:\dme351\my documents\visual studio 2010\Projects\DataCleanup\DataCleanup\obj\x86\Debug\DataCleanup.Properties.Resources.resources
+d:\dme351\my documents\visual studio 2010\Projects\DataCleanup\DataCleanup\obj\x86\Debug\GenerateResource.read.1.tlog
+d:\dme351\my documents\visual studio 2010\Projects\DataCleanup\DataCleanup\obj\x86\Debug\GenerateResource.write.1.tlog
+d:\dme351\my documents\visual studio 2010\Projects\DataCleanup\DataCleanup\obj\x86\Debug\DataCleanup.exe
+d:\dme351\my documents\visual studio 2010\Projects\DataCleanup\DataCleanup\obj\x86\Debug\DataCleanup.pdb
+d:\dme351\my documents\visual studio 2010\Projects\DataCleanup\DataCleanup\obj\x86\Debug\DataCleanup.Form1.resources
+d:\dme351\my documents\visual studio 2010\Projects\DataCleanup\DataCleanup\bin\Debug\DataCleanup.exe.manifest
+d:\dme351\my documents\visual studio 2010\Projects\DataCleanup\DataCleanup\bin\Debug\DataCleanup.application
+d:\dme351\my documents\visual studio 2010\Projects\DataCleanup\DataCleanup\obj\x86\Debug\DataCleanup.exe.manifest
+d:\dme351\my documents\visual studio 2010\Projects\DataCleanup\DataCleanup\obj\x86\Debug\DataCleanup.application
+D:\jo\Workshop\DataCleanup\DataCleanup\bin\Debug\Data_Cleanup.sql
+D:\jo\Workshop\DataCleanup\DataCleanup\bin\Debug\DataCleanup.exe.manifest
+D:\jo\Workshop\DataCleanup\DataCleanup\bin\Debug\DataCleanup.application
+D:\jo\Workshop\DataCleanup\DataCleanup\bin\Debug\DataCleanup.exe
+D:\jo\Workshop\DataCleanup\DataCleanup\bin\Debug\DataCleanup.pdb
+D:\jo\Workshop\DataCleanup\DataCleanup\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\jo\Workshop\DataCleanup\DataCleanup\obj\x86\Debug\DataCleanup.Form1.resources
+D:\jo\Workshop\DataCleanup\DataCleanup\obj\x86\Debug\DataCleanup.Properties.Resources.resources
+D:\jo\Workshop\DataCleanup\DataCleanup\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\jo\Workshop\DataCleanup\DataCleanup\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\jo\Workshop\DataCleanup\DataCleanup\obj\x86\Debug\DataCleanup.exe.manifest
+D:\jo\Workshop\DataCleanup\DataCleanup\obj\x86\Debug\DataCleanup.application
+D:\jo\Workshop\DataCleanup\DataCleanup\obj\x86\Debug\DataCleanup.exe
+D:\jo\Workshop\DataCleanup\DataCleanup\obj\x86\Debug\DataCleanup.pdb
+D:\jo\Workshop\_pro dev\DataCleanup\DataCleanup\bin\Debug\Resources\Data_Cleanup_Customers.sql
+D:\jo\Workshop\_pro dev\DataCleanup\DataCleanup\bin\Debug\Data_Cleanup.sql
+D:\jo\Workshop\_pro dev\DataCleanup\DataCleanup\bin\Debug\DataCleanup.exe.manifest
+D:\jo\Workshop\_pro dev\DataCleanup\DataCleanup\bin\Debug\DataCleanup.application
+D:\jo\Workshop\_pro dev\DataCleanup\DataCleanup\bin\Debug\DataCleanup.exe
+D:\jo\Workshop\_pro dev\DataCleanup\DataCleanup\bin\Debug\DataCleanup.pdb
+D:\jo\Workshop\_pro dev\DataCleanup\DataCleanup\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\jo\Workshop\_pro dev\DataCleanup\DataCleanup\obj\x86\Debug\DataCleanup.Cleanup.resources
+D:\jo\Workshop\_pro dev\DataCleanup\DataCleanup\obj\x86\Debug\DataCleanup.ConnectionProp.resources
+D:\jo\Workshop\_pro dev\DataCleanup\DataCleanup\obj\x86\Debug\DataCleanup.Properties.Resources.resources
+D:\jo\Workshop\_pro dev\DataCleanup\DataCleanup\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\jo\Workshop\_pro dev\DataCleanup\DataCleanup\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\jo\Workshop\_pro dev\DataCleanup\DataCleanup\obj\x86\Debug\DataCleanup.exe.manifest
+D:\jo\Workshop\_pro dev\DataCleanup\DataCleanup\obj\x86\Debug\DataCleanup.application
+D:\jo\Workshop\_pro dev\DataCleanup\DataCleanup\obj\x86\Debug\DataCleanup.exe
+D:\jo\Workshop\_pro dev\DataCleanup\DataCleanup\obj\x86\Debug\DataCleanup.pdb
+D:\jo\Workshop\_pro dev\DataCleanup 4.0\DataCleanup\bin\Debug\Data_Cleanup_Customers.sql
+D:\jo\Workshop\_pro dev\DataCleanup 4.0\DataCleanup\bin\Debug\Resources\Data_Cleanup_Customers.sql
+D:\jo\Workshop\_pro dev\DataCleanup 4.0\DataCleanup\bin\Debug\Data_Cleanup.sql
+D:\jo\Workshop\_pro dev\DataCleanup 4.0\DataCleanup\bin\Debug\DataCleanup.exe.manifest
+D:\jo\Workshop\_pro dev\DataCleanup 4.0\DataCleanup\bin\Debug\DataCleanup.application
+D:\jo\Workshop\_pro dev\DataCleanup 4.0\DataCleanup\bin\Debug\DataCleanup.exe
+D:\jo\Workshop\_pro dev\DataCleanup 4.0\DataCleanup\bin\Debug\DataCleanup.pdb
+D:\jo\Workshop\_pro dev\DataCleanup 4.0\DataCleanup\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\jo\Workshop\_pro dev\DataCleanup 4.0\DataCleanup\obj\x86\Debug\DataCleanup.Cleanup.resources
+D:\jo\Workshop\_pro dev\DataCleanup 4.0\DataCleanup\obj\x86\Debug\DataCleanup.ConnectionProp.resources
+D:\jo\Workshop\_pro dev\DataCleanup 4.0\DataCleanup\obj\x86\Debug\DataCleanup.Properties.Resources.resources
+D:\jo\Workshop\_pro dev\DataCleanup 4.0\DataCleanup\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\jo\Workshop\_pro dev\DataCleanup 4.0\DataCleanup\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\jo\Workshop\_pro dev\DataCleanup 4.0\DataCleanup\obj\x86\Debug\DataCleanup.exe.manifest
+D:\jo\Workshop\_pro dev\DataCleanup 4.0\DataCleanup\obj\x86\Debug\DataCleanup.application
+D:\jo\Workshop\_pro dev\DataCleanup 4.0\DataCleanup\obj\x86\Debug\DataCleanup.exe
+D:\jo\Workshop\_pro dev\DataCleanup 4.0\DataCleanup\obj\x86\Debug\DataCleanup.pdb
+D:\jo\Workshop\_pro dev\DataCleanup\DataCleanup 4.1\DataCleanup\bin\Debug\Data_Cleanup_Customers.sql
+D:\jo\Workshop\_pro dev\DataCleanup\DataCleanup 4.1\DataCleanup\bin\Debug\Data_Cleanup_MySQL.sql
+D:\jo\Workshop\_pro dev\DataCleanup\DataCleanup 4.1\DataCleanup\bin\Debug\Data_Cleanup_MySQL_Customers.sql
+D:\jo\Workshop\_pro dev\DataCleanup\DataCleanup 4.1\DataCleanup\bin\Debug\Data_Cleanup.sql
+D:\jo\Workshop\_pro dev\DataCleanup\DataCleanup 4.1\DataCleanup\bin\Debug\DataCleanup.exe.manifest
+D:\jo\Workshop\_pro dev\DataCleanup\DataCleanup 4.1\DataCleanup\bin\Debug\DataCleanup.application
+D:\jo\Workshop\_pro dev\DataCleanup\DataCleanup 4.1\DataCleanup\bin\Debug\DataCleanup.exe
+D:\jo\Workshop\_pro dev\DataCleanup\DataCleanup 4.1\DataCleanup\bin\Debug\DataCleanup.pdb
+D:\jo\Workshop\_pro dev\DataCleanup\DataCleanup 4.1\DataCleanup\obj\x86\Debug\DataCleanup.csprojResolveAssemblyReference.cache
+D:\jo\Workshop\_pro dev\DataCleanup\DataCleanup 4.1\DataCleanup\obj\x86\Debug\DataCleanup.Cleanup.resources
+D:\jo\Workshop\_pro dev\DataCleanup\DataCleanup 4.1\DataCleanup\obj\x86\Debug\DataCleanup.CleanupConnectionProp.resources
+D:\jo\Workshop\_pro dev\DataCleanup\DataCleanup 4.1\DataCleanup\obj\x86\Debug\DataCleanup.ConnectionProp.resources
+D:\jo\Workshop\_pro dev\DataCleanup\DataCleanup 4.1\DataCleanup\obj\x86\Debug\DataCleanup.Properties.Resources.resources
+D:\jo\Workshop\_pro dev\DataCleanup\DataCleanup 4.1\DataCleanup\obj\x86\Debug\DataCleanup.csproj.GenerateResource.Cache
+D:\jo\Workshop\_pro dev\DataCleanup\DataCleanup 4.1\DataCleanup\obj\x86\Debug\DataCleanup.exe.manifest
+D:\jo\Workshop\_pro dev\DataCleanup\DataCleanup 4.1\DataCleanup\obj\x86\Debug\DataCleanup.application
+D:\jo\Workshop\_pro dev\DataCleanup\DataCleanup 4.1\DataCleanup\obj\x86\Debug\DataCleanup.exe
+D:\jo\Workshop\_pro dev\DataCleanup\DataCleanup 4.1\DataCleanup\obj\x86\Debug\DataCleanup.pdb
+D:\jo\Workshop\_pro dev\DataCleanup\DataCleanup 4.1 - Export\DataCleanup\bin\Debug\DataCleanup.exe.manifest
+D:\jo\Workshop\_pro dev\DataCleanup\DataCleanup 4.1 - Export\DataCleanup\bin\Debug\DataCleanup.application
+D:\jo\Workshop\_pro dev\DataCleanup\DataCleanup 4.1 - Export\DataCleanup\bin\Debug\DataCleanup.exe
+D:\jo\Workshop\_pro dev\DataCleanup\DataCleanup 4.1 - Export\DataCleanup\bin\Debug\DataCleanup.pdb
+D:\jo\Workshop\_pro dev\DataCleanup\DataCleanup 4.1 - Export\DataCleanup\obj\x86\Debug\DataCleanup.Cleanup.resources
+D:\jo\Workshop\_pro dev\DataCleanup\DataCleanup 4.1 - Export\DataCleanup\obj\x86\Debug\DataCleanup.ConnectionProp.resources
+D:\jo\Workshop\_pro dev\DataCleanup\DataCleanup 4.1 - Export\DataCleanup\obj\x86\Debug\DataCleanup.Properties.Resources.resources
+D:\jo\Workshop\_pro dev\DataCleanup\DataCleanup 4.1 - Export\DataCleanup\obj\x86\Debug\DataCleanup.csproj.GenerateResource.Cache
+D:\jo\Workshop\_pro dev\DataCleanup\DataCleanup 4.1 - Export\DataCleanup\obj\x86\Debug\DataCleanup.exe.manifest
+D:\jo\Workshop\_pro dev\DataCleanup\DataCleanup 4.1 - Export\DataCleanup\obj\x86\Debug\DataCleanup.application
+D:\jo\Workshop\_pro dev\DataCleanup\DataCleanup 4.1 - Export\DataCleanup\obj\x86\Debug\DataCleanup.exe
+D:\jo\Workshop\_pro dev\DataCleanup\DataCleanup 4.1 - Export\DataCleanup\obj\x86\Debug\DataCleanup.pdb

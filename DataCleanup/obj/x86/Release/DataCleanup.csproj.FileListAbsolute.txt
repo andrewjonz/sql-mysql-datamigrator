@@ -1,0 +1,63 @@
+d:\dme351\my documents\visual studio 2010\Projects\DataCleanup\DataCleanup\bin\Release\Data_Cleanup.sql
+d:\dme351\my documents\visual studio 2010\Projects\DataCleanup\DataCleanup\bin\Release\DataCleanup.exe.manifest
+d:\dme351\my documents\visual studio 2010\Projects\DataCleanup\DataCleanup\bin\Release\DataCleanup.application
+d:\dme351\my documents\visual studio 2010\Projects\DataCleanup\DataCleanup\bin\Release\DataCleanup.exe
+d:\dme351\my documents\visual studio 2010\Projects\DataCleanup\DataCleanup\bin\Release\DataCleanup.pdb
+d:\dme351\my documents\visual studio 2010\Projects\DataCleanup\DataCleanup\obj\x86\Release\ResolveAssemblyReference.cache
+d:\dme351\my documents\visual studio 2010\Projects\DataCleanup\DataCleanup\obj\x86\Release\DataCleanup.Form1.resources
+d:\dme351\my documents\visual studio 2010\Projects\DataCleanup\DataCleanup\obj\x86\Release\DataCleanup.Properties.Resources.resources
+d:\dme351\my documents\visual studio 2010\Projects\DataCleanup\DataCleanup\obj\x86\Release\GenerateResource.read.1.tlog
+d:\dme351\my documents\visual studio 2010\Projects\DataCleanup\DataCleanup\obj\x86\Release\GenerateResource.write.1.tlog
+d:\dme351\my documents\visual studio 2010\Projects\DataCleanup\DataCleanup\obj\x86\Release\DataCleanup.exe.manifest
+d:\dme351\my documents\visual studio 2010\Projects\DataCleanup\DataCleanup\obj\x86\Release\DataCleanup.application
+d:\dme351\my documents\visual studio 2010\Projects\DataCleanup\DataCleanup\obj\x86\Release\DataCleanup.exe
+d:\dme351\my documents\visual studio 2010\Projects\DataCleanup\DataCleanup\obj\x86\Release\DataCleanup.pdb
+D:\jo\Workshop\DataCleanup\DataCleanup\bin\Release\Data_Cleanup.sql
+D:\jo\Workshop\DataCleanup\DataCleanup\bin\Release\DataCleanup.exe.manifest
+D:\jo\Workshop\DataCleanup\DataCleanup\bin\Release\DataCleanup.application
+D:\jo\Workshop\DataCleanup\DataCleanup\bin\Release\DataCleanup.exe
+D:\jo\Workshop\DataCleanup\DataCleanup\bin\Release\DataCleanup.pdb
+D:\jo\Workshop\DataCleanup\DataCleanup\obj\x86\Release\ResolveAssemblyReference.cache
+D:\jo\Workshop\DataCleanup\DataCleanup\obj\x86\Release\DataCleanup.Form1.resources
+D:\jo\Workshop\DataCleanup\DataCleanup\obj\x86\Release\DataCleanup.Properties.Resources.resources
+D:\jo\Workshop\DataCleanup\DataCleanup\obj\x86\Release\GenerateResource.read.1.tlog
+D:\jo\Workshop\DataCleanup\DataCleanup\obj\x86\Release\GenerateResource.write.1.tlog
+D:\jo\Workshop\DataCleanup\DataCleanup\obj\x86\Release\DataCleanup.exe.manifest
+D:\jo\Workshop\DataCleanup\DataCleanup\obj\x86\Release\DataCleanup.application
+D:\jo\Workshop\DataCleanup\DataCleanup\obj\x86\Release\DataCleanup.exe
+D:\jo\Workshop\DataCleanup\DataCleanup\obj\x86\Release\DataCleanup.pdb
+D:\jo\Workshop\_pro dev\DataCleanup\DataCleanup\bin\Release\Resources\Data_Cleanup_Customers.sql
+D:\jo\Workshop\_pro dev\DataCleanup\DataCleanup\bin\Release\Data_Cleanup.sql
+D:\jo\Workshop\_pro dev\DataCleanup\DataCleanup\bin\Release\DataCleanup.exe.manifest
+D:\jo\Workshop\_pro dev\DataCleanup\DataCleanup\bin\Release\DataCleanup.application
+D:\jo\Workshop\_pro dev\DataCleanup\DataCleanup\bin\Release\DataCleanup.exe
+D:\jo\Workshop\_pro dev\DataCleanup\DataCleanup\bin\Release\DataCleanup.pdb
+D:\jo\Workshop\_pro dev\DataCleanup\DataCleanup\obj\x86\Release\ResolveAssemblyReference.cache
+D:\jo\Workshop\_pro dev\DataCleanup\DataCleanup\obj\x86\Release\DataCleanup.Cleanup.resources
+D:\jo\Workshop\_pro dev\DataCleanup\DataCleanup\obj\x86\Release\DataCleanup.ConnectionProp.resources
+D:\jo\Workshop\_pro dev\DataCleanup\DataCleanup\obj\x86\Release\DataCleanup.Properties.Resources.resources
+D:\jo\Workshop\_pro dev\DataCleanup\DataCleanup\obj\x86\Release\GenerateResource.read.1.tlog
+D:\jo\Workshop\_pro dev\DataCleanup\DataCleanup\obj\x86\Release\GenerateResource.write.1.tlog
+D:\jo\Workshop\_pro dev\DataCleanup\DataCleanup\obj\x86\Release\DataCleanup.exe.manifest
+D:\jo\Workshop\_pro dev\DataCleanup\DataCleanup\obj\x86\Release\DataCleanup.application
+D:\jo\Workshop\_pro dev\DataCleanup\DataCleanup\obj\x86\Release\DataCleanup.exe
+D:\jo\Workshop\_pro dev\DataCleanup\DataCleanup\obj\x86\Release\DataCleanup.pdb
+D:\jo\Workshop\_pro dev\DataCleanup\DataCleanup 4.1\DataCleanup\obj\x86\Release\DataCleanup.exe
+D:\jo\Workshop\_pro dev\DataCleanup\DataCleanup 4.1\DataCleanup\obj\x86\Release\DataCleanup.pdb
+D:\jo\Workshop\_pro dev\DataCleanup\DataCleanup 4.1\DataCleanup\bin\Release\Data_Cleanup_Customers.sql
+D:\jo\Workshop\_pro dev\DataCleanup\DataCleanup 4.1\DataCleanup\bin\Release\Data_Cleanup_MySQL.sql
+D:\jo\Workshop\_pro dev\DataCleanup\DataCleanup 4.1\DataCleanup\bin\Release\Data_Cleanup_MySQL_Customers.sql
+D:\jo\Workshop\_pro dev\DataCleanup\DataCleanup 4.1\DataCleanup\bin\Release\Data_Cleanup.sql
+D:\jo\Workshop\_pro dev\DataCleanup\DataCleanup 4.1\DataCleanup\bin\Release\DataCleanup.exe.manifest
+D:\jo\Workshop\_pro dev\DataCleanup\DataCleanup 4.1\DataCleanup\bin\Release\DataCleanup.application
+D:\jo\Workshop\_pro dev\DataCleanup\DataCleanup 4.1\DataCleanup\bin\Release\DataCleanup.exe
+D:\jo\Workshop\_pro dev\DataCleanup\DataCleanup 4.1\DataCleanup\bin\Release\DataCleanup.pdb
+D:\jo\Workshop\_pro dev\DataCleanup\DataCleanup 4.1\DataCleanup\obj\x86\Release\ResolveAssemblyReference.cache
+D:\jo\Workshop\_pro dev\DataCleanup\DataCleanup 4.1\DataCleanup\obj\x86\Release\DataCleanup.Cleanup.resources
+D:\jo\Workshop\_pro dev\DataCleanup\DataCleanup 4.1\DataCleanup\obj\x86\Release\DataCleanup.CleanupConnectionProp.resources
+D:\jo\Workshop\_pro dev\DataCleanup\DataCleanup 4.1\DataCleanup\obj\x86\Release\DataCleanup.ConnectionProp.resources
+D:\jo\Workshop\_pro dev\DataCleanup\DataCleanup 4.1\DataCleanup\obj\x86\Release\DataCleanup.Properties.Resources.resources
+D:\jo\Workshop\_pro dev\DataCleanup\DataCleanup 4.1\DataCleanup\obj\x86\Release\GenerateResource.read.1.tlog
+D:\jo\Workshop\_pro dev\DataCleanup\DataCleanup 4.1\DataCleanup\obj\x86\Release\GenerateResource.write.1.tlog
+D:\jo\Workshop\_pro dev\DataCleanup\DataCleanup 4.1\DataCleanup\obj\x86\Release\DataCleanup.exe.manifest
+D:\jo\Workshop\_pro dev\DataCleanup\DataCleanup 4.1\DataCleanup\obj\x86\Release\DataCleanup.application
